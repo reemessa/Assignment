@@ -51,7 +51,7 @@
     </span>
     
     
-    <input type="submit" value="Submit">
+    <input type="submit" value="Find Offers">
   </form>
 </div>
 
