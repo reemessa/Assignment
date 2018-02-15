@@ -64,7 +64,7 @@
                     <goals><goal>copy</goal></goals>
                     <configuration>
                         <artifactItems>
-                     <artifactItem>
+                            <artifactItem>
                                 <groupId>com.github.jsimone</groupId>
                                 <artifactId>webapp-runner</artifactId>
                                 <version>8.5.27.0</version>
