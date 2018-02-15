@@ -13,6 +13,9 @@ Javascript (Jquery)
 Styling :
 Basic CSS Styles
 ---------------------
+Used IDE :
+Eclipse
+---------------------
 
 It's currently deployed on Heroku and you can access it using : https://salty-lake-38346.herokuapp.com/
 
