@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* com.expedia.offers.OffersFinderServlet
+web: java -jar target/expedia-master-1.0.jar
