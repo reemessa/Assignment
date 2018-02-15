@@ -1,1 +1,1 @@
-web: java -jar target/webapp-runner.jar
+web: java -cp target/classes:target/dependency/* com.expedia.OffersFinderServlet
